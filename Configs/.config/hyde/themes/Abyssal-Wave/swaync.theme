@@ -1,0 +1,9 @@
+$HOME/.config/swaync/theme.css|${scrDir}/wallbashswaync.sh
+@define-color bar-bg #1f1f28;   
+@define-color main-bg #2a2a37;  
+@define-color main-fg #dcd7ba;  
+@define-color wb-act-bg #3b3b58;
+@define-color wb-act-fg #ffa066;
+@define-color wb-hvr-bg #4c4c67;
+@define-color wb-hvr-fg #7e9cd8;
+@define-color text #c8c093;
