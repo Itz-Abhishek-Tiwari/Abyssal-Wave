@@ -38,7 +38,7 @@ This theme offers a sleek, calming, and immersive experience for developers who 
 ### 🚀 Installation
 
 ```bash
-Hyde theme patch AbyssalWave 'https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave'
+Hyde theme import Abyssal-Wave 'https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wave'
 ```
 
 > **Note**: Abyssal Wave is still in **beta**, so expect frequent updates!
