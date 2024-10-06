@@ -56,3 +56,4 @@ Hyde theme patch AbyssalWave 'https://github.com/Itz-Abhishek-Tiwari/Abyssal-Wav
 ### 📂 Explore More Themes
 Looking for other themes? Check out the [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery) for more options.
 
+
