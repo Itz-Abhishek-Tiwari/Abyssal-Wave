@@ -9,7 +9,7 @@ general {
     col.active_border = rgba(dcd7baee) rgba(957fb8b0) rgba(957fb8b0) rgba(dcd7baee) 45deg # Kanagawa fujiWhite and lavender
 
     gaps_in = 5
-    gaps_out = 15
+    gaps_out = 10
 }
 
 decoration {
