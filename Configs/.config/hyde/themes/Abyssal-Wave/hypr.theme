@@ -1,5 +1,5 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
-exec = gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
+exec = gsettings set org.gnome.desktop.interface icon-theme 'Papirus-kanagawa'
 exec = gsettings set org.gnome.desktop.interface gtk-theme 'Abyssal-Wave'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
