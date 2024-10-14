@@ -4,7 +4,7 @@ exec = gsettings set org.gnome.desktop.interface gtk-theme 'Abyssal-Wave'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
 general {
-    border_size = 2
+    border_size = 3
     col.inactive_border = rgba(6a9589b0) # Kanagawa crust color with opacity
     col.active_border = rgba(dcd7baee) rgba(957fb8b0) rgba(957fb8b0) rgba(dcd7baee) 45deg # Kanagawa fujiWhite and lavender
 
@@ -15,8 +15,8 @@ general {
 decoration {
     rounding = 0
 
-    active_opacity = 0.90
-    inactive_opacity = 0.90
+    active_opacity = 0.95
+    inactive_opacity = 0.95
 
     blur {
         enabled = yes
